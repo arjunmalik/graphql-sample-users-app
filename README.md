@@ -7,6 +7,7 @@ Use the Application
 1. npm install
 2. npm run json:server
 3. npm run dev (by default application will be served on http://localhost:4000/)
+4. Navigate to http://localhost:4000/graphql for the schema, runnning queries and mutations. 
 
 For more on GraphQL please see other repo:
 
